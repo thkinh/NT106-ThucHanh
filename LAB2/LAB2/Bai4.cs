@@ -51,10 +51,11 @@ namespace LAB2
             using (FileStream fs = new FileStream("input.txt", FileMode.OpenOrCreate))
             {
                 BinaryFormatter bf = new BinaryFormatter();
+                Data.Text = "";
                 fs.Position = 0;
                 string allstudent = (string)bf.Deserialize(fs);
-                string[] data = allstudent.Split();
-
+                string[] data = allstudent.Split("\n");
+                
                 try
                 {
                     students.Clear();
@@ -112,8 +113,8 @@ namespace LAB2
                 using (FileStream ff = new FileStream("output.txt", FileMode.OpenOrCreate))
                 {
                     ff.Flush();
-                    StreamWriter writer = new StreamWriter(ff);
-                    writer.Write(content);
+                    BinaryWriter br = new BinaryWriter(ff);
+                    br.Write(content);
                 }
 
             }
