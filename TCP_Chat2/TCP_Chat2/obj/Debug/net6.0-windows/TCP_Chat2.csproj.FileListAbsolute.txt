@@ -1,0 +1,17 @@
+C:\Users\ADMIN\Documents\HocTap\HK4\Lap Tring Mang Can Ban\Thuc Hanh\TCP_Chat2\TCP_Chat2\obj\Debug\net6.0-windows\TCP_Chat2.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\HocTap\HK4\Lap Tring Mang Can Ban\Thuc Hanh\TCP_Chat2\TCP_Chat2\obj\Debug\net6.0-windows\TCP_Chat2.csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\HocTap\HK4\Lap Tring Mang Can Ban\Thuc Hanh\TCP_Chat2\TCP_Chat2\obj\Debug\net6.0-windows\TCP_Chat2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\HocTap\HK4\Lap Tring Mang Can Ban\Thuc Hanh\TCP_Chat2\TCP_Chat2\obj\Debug\net6.0-windows\TCP_Chat2.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\HocTap\HK4\Lap Tring Mang Can Ban\Thuc Hanh\TCP_Chat2\TCP_Chat2\obj\Debug\net6.0-windows\TCP_Chat2.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\HocTap\HK4\Lap Tring Mang Can Ban\Thuc Hanh\TCP_Chat2\TCP_Chat2\obj\Debug\net6.0-windows\TCP_Chat2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\HocTap\HK4\Lap Tring Mang Can Ban\Thuc Hanh\TCP_Chat2\TCP_Chat2\bin\Debug\net6.0-windows\TCP_Chat2.exe
+C:\Users\ADMIN\Documents\HocTap\HK4\Lap Tring Mang Can Ban\Thuc Hanh\TCP_Chat2\TCP_Chat2\bin\Debug\net6.0-windows\TCP_Chat2.deps.json
+C:\Users\ADMIN\Documents\HocTap\HK4\Lap Tring Mang Can Ban\Thuc Hanh\TCP_Chat2\TCP_Chat2\bin\Debug\net6.0-windows\TCP_Chat2.runtimeconfig.json
+C:\Users\ADMIN\Documents\HocTap\HK4\Lap Tring Mang Can Ban\Thuc Hanh\TCP_Chat2\TCP_Chat2\bin\Debug\net6.0-windows\TCP_Chat2.dll
+C:\Users\ADMIN\Documents\HocTap\HK4\Lap Tring Mang Can Ban\Thuc Hanh\TCP_Chat2\TCP_Chat2\bin\Debug\net6.0-windows\TCP_Chat2.pdb
+C:\Users\ADMIN\Documents\HocTap\HK4\Lap Tring Mang Can Ban\Thuc Hanh\TCP_Chat2\TCP_Chat2\obj\Debug\net6.0-windows\TCP_Chat2.Server.resources
+C:\Users\ADMIN\Documents\HocTap\HK4\Lap Tring Mang Can Ban\Thuc Hanh\TCP_Chat2\TCP_Chat2\obj\Debug\net6.0-windows\TCP_Chat2.dll
+C:\Users\ADMIN\Documents\HocTap\HK4\Lap Tring Mang Can Ban\Thuc Hanh\TCP_Chat2\TCP_Chat2\obj\Debug\net6.0-windows\refint\TCP_Chat2.dll
+C:\Users\ADMIN\Documents\HocTap\HK4\Lap Tring Mang Can Ban\Thuc Hanh\TCP_Chat2\TCP_Chat2\obj\Debug\net6.0-windows\TCP_Chat2.pdb
+C:\Users\ADMIN\Documents\HocTap\HK4\Lap Tring Mang Can Ban\Thuc Hanh\TCP_Chat2\TCP_Chat2\obj\Debug\net6.0-windows\TCP_Chat2.genruntimeconfig.cache
+C:\Users\ADMIN\Documents\HocTap\HK4\Lap Tring Mang Can Ban\Thuc Hanh\TCP_Chat2\TCP_Chat2\obj\Debug\net6.0-windows\ref\TCP_Chat2.dll
